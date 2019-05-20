@@ -17,12 +17,12 @@ class Septi extends Component {
 					 <div className="col-lg-8 advantage-grid-info">
                         <div className="advantage_left">
                              <h1 className="heading text-capitalize mb-sm-5 mb-4">Hi. I'm <span>Septiya.</span></h1>
-							<p className="mt-4">Integer porttitor <span>mollisar </span>
-                            lorem, at molestie arcu pulvinar ut. Proin ac fermentum est. Cras mi ipsum, consectetur.</p><br />
+							<p className="mt-4">Kita menjadi dewasa karena pengalaman bukan karena 
+                                umur, so jangan kebanyakan ngeluh saat nyari pengalaman</p><br />
                             <table>
                                 <tr>
                                     <td className="pb-1 pr-5"><p>Email</p></td>
-                                    <td><p>example@mail.com</p></td>
+                                    <td><p>septiyakristintamara747@gmail.com</p></td>
                                 </tr>
                                 <tr>
                                     <td className="pb-1 pr-5"><p>Address</p></td>
@@ -30,7 +30,7 @@ class Septi extends Component {
                                 </tr>
                                 <tr>
                                     <td className="pb-1 pr-5"><p>Telephone</p></td>
-                                    <td><p>0987654321</p></td>
+                                    <td><p>082257639671</p></td>
                                 </tr>
                             </table>
 						</div>

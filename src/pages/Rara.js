@@ -17,11 +17,12 @@ class Rara extends Component {
 					 <div className="col-lg-8 advantage-grid-info">
                         <div className="advantage_left">
                              <h1 className="heading text-capitalize mb-sm-5 mb-4">Hi. I'm <span>Azzahra.</span></h1>
-							<p className="mt-4">Integer porttitor <span>mollisar </span>lorem, at molestie arcu pulvinar ut. Proin ac fermentum est. Cras mi ipsum, consectetur.</p><br />
+							<p className="mt-4">Integer porttitor <span>mollisar </span>
+                            Always be happy.</p><br />
 							<table>
                                 <tr>
                                     <td className="pb-1 pr-5"><p>Email</p></td>
-                                    <td><p>example@mail.com</p></td>
+                                    <td><p>azzahrapramata@gmail.com</p></td>
                                 </tr>
                                 <tr>
                                     <td className="pb-1 pr-5"><p>Address</p></td>
@@ -29,7 +30,7 @@ class Rara extends Component {
                                 </tr>
                                 <tr>
                                     <td className="pb-1 pr-5"><p>Telephone</p></td>
-                                    <td><p>0987654321</p></td>
+                                    <td><p>082220513104</p></td>
                                 </tr>
                             </table>
 						</div>

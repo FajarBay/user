@@ -17,12 +17,11 @@ class Daru extends Component {
 					 <div className="col-lg-8 advantage-grid-info">
                         <div className="advantage_left">
                              <h1 className="heading text-capitalize mb-sm-5 mb-4">Hi. I'm <span>Dewandaru.</span></h1>
-							<p className="mt-4">Integer porttitor <span>mollisar </span>
-                            lorem, at molestie arcu pulvinar ut. Proin ac fermentum est. Cras mi ipsum, consectetur.</p><br />
+							<p className="mt-4">Jika anda merasa tidak berguna, ingatlah. Memang.</p><br />
 							<table>
                                 <tr>
                                     <td className="pb-1 pr-5"><p>Email</p></td>
-                                    <td><p>example@mail.com</p></td>
+                                    <td><p>dewandaruajidarma@mail.com</p></td>
                                 </tr>
                                 <tr>
                                     <td className="pb-1 pr-5"><p>Address</p></td>
@@ -30,7 +29,7 @@ class Daru extends Component {
                                 </tr>
                                 <tr>
                                     <td className="pb-1 pr-5"><p>Telephone</p></td>
-                                    <td><p>0987654321</p></td>
+                                    <td><p>085777715793</p></td>
                                 </tr>
                             </table>
 						</div>
