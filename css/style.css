@@ -290,7 +290,7 @@ li > a:only-child:after {
     }
 
     .toggle:hover {
-        color: #fff;
+        color: #333;
         background-color: #fff;
     }
 
