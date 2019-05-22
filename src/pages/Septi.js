@@ -19,7 +19,7 @@ class Septi extends Component {
                              <h1 className="heading text-capitalize mb-sm-5 mb-4">Hi. I'm <span>Septiya Kristin T.</span></h1>
 							<p className="mt-4 t">Kita menjadi dewasa karena pengalaman bukan karena 
                                 umur, so jangan kebanyakan ngeluh saat nyari pengalaman</p><br />
-                            <table>
+                            <table className="table-responsive">
                                 <tbody>
                                 <tr>
                                     <td className="pb-1 pr-5"><p className="t">Email</p></td>
