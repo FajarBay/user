@@ -44,6 +44,35 @@ class Daru extends Component {
             </div>
 		</div>
     </section>
+
+    <div className="agileits-services" id="services">
+		<div className="container">
+		   <h2 className="heading text-capitalize"> Services </h2>
+		   <p className="subs mt-4">What I Offer.</p>
+            <div className="agileits-services-row row pt-md-5 pb-5  text-center">
+                <div className="col-lg-4">
+                    <div className="agileits-services-grids mt-lg-0 mt-md-0 mt-5">
+                        <h4 className="mt-4 mb-4">Web Developer</h4>
+                        <p>I build customized cross-browser, cross-platform web sites and web applications. 
+                            I use a wide array of the latest front end technologies. </p>
+                    </div>
+                </div>
+                <div className="col-lg-4">
+                    <div className="agileits-services-grids mt-lg-0 mt-5">
+                        <h4 className="mt-4 mb-4">Photography</h4>
+                        <p>Good quality photography is often the very first thing a prospective client or customer sees about your business.</p>
+                    </div>
+                </div>
+                <div className="col-lg-4  mt-lg-0 mt-5">
+                    <div className="agileits-services-grids">
+                       <h4 className="mt-4 mb-4">Web Design</h4>
+                        <p>I make design of layouts, design of web-pages, redesign of existing projects, 
+                            responsive web-design, design of Wordpress themes.</p>
+                    </div>
+                </div>
+            </div>
+    </div>
+	</div>
     </React.Fragment>
     );
 }
