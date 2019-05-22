@@ -19,18 +19,24 @@ class Daru extends Component {
                              <h1 className="heading text-capitalize mb-sm-5 mb-4">Hi. I'm <span>Dewandaru.</span></h1>
 							<p className="mt-4">Jika anda merasa tidak berguna, ingatlah. Memang.</p><br />
 							<table>
+                                <tbody>
                                 <tr>
                                     <td className="pb-1 pr-5"><p>Email</p></td>
                                     <td><p>dewandaruajidarma@mail.com</p></td>
                                 </tr>
+                                </tbody>
+                                <tbody>
                                 <tr>
                                     <td className="pb-1 pr-5"><p>Address</p></td>
                                     <td><p>Yogyakarta</p></td>
                                 </tr>
+                                </tbody>
+                                <tbody>
                                 <tr>
                                     <td className="pb-1 pr-5"><p>Telephone</p></td>
                                     <td><p>085777715793</p></td>
                                 </tr>
+                                </tbody>
                             </table>
 						</div>
                     </div>

@@ -20,18 +20,24 @@ class Rara extends Component {
 							<p className="mt-4">Integer porttitor <span>mollisar </span>
                             Always be happy.</p><br />
 							<table>
+                                <tbody>
                                 <tr>
                                     <td className="pb-1 pr-5"><p>Email</p></td>
                                     <td><p>azzahrapramata@gmail.com</p></td>
                                 </tr>
+                                </tbody>
+                                <tbody>
                                 <tr>
                                     <td className="pb-1 pr-5"><p>Address</p></td>
                                     <td><p>Yogyakarta</p></td>
                                 </tr>
+                                </tbody>
+                                <tbody>
                                 <tr>
                                     <td className="pb-1 pr-5"><p>Telephone</p></td>
                                     <td><p>082220513104</p></td>
                                 </tr>
+                                </tbody>
                             </table>
 						</div>
                     </div>
