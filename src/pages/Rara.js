@@ -11,13 +11,13 @@ class Rara extends Component {
                 <div className="row middle-grids">
                     <div className="col-lg-4 advantage-grid-info1">
                         <div className="advantage_left1 text-center">
-                            <img src="images/rara.png" className="img-fluid" alt=""></img>
+                            <img src="images/rara.png" className="img-fluid" alt="rara"></img>
                         </div>
                     </div> 
 					 <div className="col-lg-8 advantage-grid-info">
                         <div className="advantage_left">
-                             <h1 className="heading text-capitalize mb-sm-5 mb-4">Hi. I'm <span>Azzahra.</span></h1>
-							<p className="mt-4">Time isn't the main thing. Its the only thing.</p><br />
+                             <h1 className="heading text-capitalize mb-sm-5 mb-4">Hi. I'm <span>Azzahra Pramata C.</span></h1>
+							<p className="mt-4 t">Time isn't the main thing. Its the only thing.</p><br />
 							<table>
                                 <tbody>
                                 <tr>

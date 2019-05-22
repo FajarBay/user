@@ -11,13 +11,13 @@ class Daru extends Component {
                 <div className="row middle-grids">
                     <div className="col-lg-4 advantage-grid-info1">
                         <div className="advantage_left1 text-center">
-                            <img src="images/daru.png" className="img-fluid" alt=""></img>
+                            <img src="images/daru.png" className="img-fluid" alt="daru"></img>
                         </div>
                     </div> 
 					 <div className="col-lg-8 advantage-grid-info">
                         <div className="advantage_left">
-                             <h1 className="heading text-capitalize mb-sm-5 mb-4">Hi. I'm <span>Dewandaru.</span></h1>
-							<p className="mt-4">Jika anda merasa tidak berguna, ingatlah. Memang.</p><br />
+                             <h1 className="heading text-capitalize mb-sm-5 mb-4">Hi. I'm <span>Dewandaru Aji D.</span></h1>
+							<p className="mt-4 t">Jika anda merasa tidak berguna, ingatlah. Memang.</p><br />
 							<table>
                                 <tbody>
                                 <tr>
