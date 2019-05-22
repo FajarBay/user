@@ -17,7 +17,7 @@ class Fajar extends Component {
 					 <div className="col-lg-8 advantage-grid-info">
                         <div className="advantage_left">
                              <h1 className="heading text-capitalize mb-sm-5 mb-4">Hi. I'm <span>Fajar Bayu A.</span></h1>
-							<p className="mt-4 t">Kata kata bijak saya adalah ini.</p><br />
+							<p className="mt-4 t">Jangan menilai orang dari covernya, tapi dari isi dompetnya.</p><br />
 							<table>
                                 <tbody>
                                 <tr>
