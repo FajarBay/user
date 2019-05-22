@@ -6,7 +6,7 @@ class Septi extends Component {
     return (
         <React.Fragment>
         <section className="banner-bottom" id="about">
-		<div className="container">
+		<div className="container-fluid">
             <div className="inner-sec">
                 <div className="row middle-grids">
                     <div className="col-lg-4 advantage-grid-info1">

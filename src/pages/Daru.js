@@ -46,7 +46,7 @@ class Daru extends Component {
     </section>
 
     <div className="agileits-services" id="services">
-		<div className="container">
+		<div className="container-fluid">
 		   <h2 className="heading text-capitalize"> Services </h2>
 		   <p className="subs mt-4">What I Offer.</p>
             <div className="agileits-services-row row pt-md-5 pb-5  text-center">
