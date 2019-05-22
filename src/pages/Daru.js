@@ -21,20 +21,20 @@ class Daru extends Component {
 							<table>
                                 <tbody>
                                 <tr>
-                                    <td className="pb-1 pr-5"><p>Email</p></td>
-                                    <td><p>dewandaruajidarma@mail.com</p></td>
+                                    <td className="pb-1 pr-5"><p className="t">Email</p></td>
+                                    <td><p className="t">dewandaruajidarma@mail.com</p></td>
                                 </tr>
                                 </tbody>
                                 <tbody>
                                 <tr>
-                                    <td className="pb-1 pr-5"><p>Address</p></td>
-                                    <td><p>Yogyakarta</p></td>
+                                    <td className="pb-1 pr-5"><p className="t">Address</p></td>
+                                    <td><p className="t">Yogyakarta</p></td>
                                 </tr>
                                 </tbody>
                                 <tbody>
                                 <tr>
-                                    <td className="pb-1 pr-5"><p>Telephone</p></td>
-                                    <td><p>085777715793</p></td>
+                                    <td className="pb-1 pr-5"><p className="t">Telephone</p></td>
+                                    <td><p className="t">085777715793</p></td>
                                 </tr>
                                 </tbody>
                             </table>

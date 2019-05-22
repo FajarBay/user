@@ -17,25 +17,25 @@ class Septi extends Component {
 					 <div className="col-lg-8 advantage-grid-info">
                         <div className="advantage_left">
                              <h1 className="heading text-capitalize mb-sm-5 mb-4">Hi. I'm <span>Septiya.</span></h1>
-							<p className="mt-4">Kita menjadi dewasa karena pengalaman bukan karena 
+							<p className="mt-4 t">Kita menjadi dewasa karena pengalaman bukan karena 
                                 umur, so jangan kebanyakan ngeluh saat nyari pengalaman</p><br />
                             <table>
                                 <tbody>
                                 <tr>
-                                    <td className="pb-1 pr-5"><p>Email</p></td>
-                                    <td><p>septiyakristintamara747@gmail.com</p></td>
+                                    <td className="pb-1 pr-5"><p className="t">Email</p></td>
+                                    <td><p className="t">septiyakristintamara747@gmail.com</p></td>
                                 </tr>
                                 </tbody>
                                 <tbody>
                                 <tr>
-                                    <td className="pb-1 pr-5"><p>Address</p></td>
-                                    <td><p>Yogyakarta</p></td>
+                                    <td className="pb-1 pr-5"><p className="t">Address</p></td>
+                                    <td><p className="t">Yogyakarta</p></td>
                                 </tr>
                                 </tbody>
                                 <tbody>
                                 <tr>
-                                    <td className="pb-1 pr-5"><p>Telephone</p></td>
-                                    <td><p>082257639671</p></td>
+                                    <td className="pb-1 pr-5"><p className="t">Telephone</p></td>
+                                    <td><p className="t">082257639671</p></td>
                                 </tr>
                                 </tbody>
                             </table>

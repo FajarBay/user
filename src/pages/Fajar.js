@@ -21,20 +21,20 @@ class Fajar extends Component {
 							<table>
                                 <tbody>
                                 <tr>
-                                    <td className="pb-1 pr-5"><p>Email</p></td>
-                                    <td><p>fajarbayu@90gmail.com</p></td>
+                                    <td className="pb-1 pr-5"><p className="t">Email</p></td>
+                                    <td><p className="t">fajarbayu@90gmail.com</p></td>
                                 </tr>
                                 </tbody>
                                 <tbody>
                                 <tr>
-                                    <td className="pb-1 pr-5"><p>Address</p></td>
-                                    <td><p>Yogyakarta</p></td>
+                                    <td className="pb-1 pr-5"><p className="t">Address</p></td>
+                                    <td><p className="t">Yogyakarta</p></td>
                                 </tr>
                                 </tbody>
                                 <tbody>
                                 <tr>
-                                    <td className="pb-1 pr-5"><p>Telephone</p></td>
-                                    <td><p>083897710862</p></td>
+                                    <td className="pb-1 pr-5"><p className="t">Telephone</p></td>
+                                    <td><p className="t">083897710862</p></td>
                                 </tr>
                                 </tbody>
                             </table>
