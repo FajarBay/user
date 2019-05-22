@@ -18,7 +18,7 @@ class Daru extends Component {
                         <div className="advantage_left">
                              <h1 className="heading text-capitalize mb-sm-5 mb-4">Hi. I'm <span>Dewandaru Aji D.</span></h1>
 							<p className="mt-4 t">Jika anda merasa tidak berguna, ingatlah. Memang.</p><br />
-							<table>
+							<table className="table-responsive-sm">
                                 <tbody>
                                 <tr>
                                     <td className="pb-1 pr-5"><p className="t">Email</p></td>
