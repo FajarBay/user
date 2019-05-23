@@ -60,7 +60,7 @@ class Rara extends Component {
                 <div className="col-lg-4">
                     <div className="agileits-services-grids mt-lg-0 mt-5">
                         <h4 className="mt-4 mb-4">Photography</h4>
-                        <p>Good quality photography is often the very first thing a prospective client or customer sees about your business.</p>
+                        <p>Good quality photography is often the very first thing a prospective client or customer sees about your business, i'm profesianoal photografer.</p>
                     </div>
                 </div>
                 <div className="col-lg-4  mt-lg-0 mt-5">
